@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+welcome to the ¬dev (notDev) project group repository! 
+testing commity
+# *Terminology and points to become familiar with github*
+   * [MASTER BRANCH] IS THE BRANCH THAT WE DO NOT MESS WITH UNTIL CHANGES ARE APPROVED BY OTHER TEAM MEMBERS.
 
-You can use the [editor on GitHub](https://github.com/notdev17/central/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+   * [Branches] - branches are to help version control, so we can make copies of *the Master Branch*. 
+     - Furthermore, we use these branches       (seperate versions) to make changes that we can possibly get it approved by other team members.
+   * DONT MAKE CHANGES TO THE MASTER BRANCH WITHOUT TEAM APPORVAL, or atleast try not to lol
+   * [Pulls] - we pull from versions/branches to your local machine, so that we can make changes and commit them under a new version/branch
+   * [Requests] - https://help.github.com/articles/about-pull-requests/ if you want to make a change to the master branch then make a pull request and make changes to the pull request.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#~~~~~~~~~~~~
 
-### Markdown
+### Mark down language if you want to write sexy ass readmes: 
+    https://github.com/adam-p/markdown-here/wiki/Markdown-
+    https://guides.github.com/features/mastering-markdown/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# contact information
+  //
+# Preferable Meeting Time
+  * Tuesdays and Thursdays - Preferably before class (Before 5:20PM)
+  * Possibly Meeting locations: DOU lab and Sitdown study areas on campus; the library is also lit.
+  
+# My preferences for connecting to github:
+  * MobaXTerm: https://mobaxterm.mobatek.net/ //this is what I primarily use
+  * GitBash: https://git-scm.com/downloads //most old school
+  * Github Desktop: https://desktop.github.com/ //github made their own client, its pretty pretty
+  * BitBucket is also useful as a platform to access github
+      - https://confluence.atlassian.com/get-started-with-bitbucket/get-started-with-bitbucket-cloud-856845168.html
+      - http://help.interfaceware.com/v6/connect-to-github-using-an-ssh-key
+  * Another option is GitKraken, which you can get a 1 year pro account through the github students pack:
+      - https://education.github.com/pack
 
-```markdown
-Syntax highlighted code block
+# Discord for future discussion (Specifically for our group):
+  * https://discord.gg/ZjgTcxg
 
-# Header 1
-## Header 2
-### Header 3
+# To reach this repo through browser:
+  * http://flannyan.github.io/notDev
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/notdev17/central/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+you guys feel free to add to the read me
+-Daylen Nguyen
