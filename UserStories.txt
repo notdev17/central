@@ -1,0 +1,17 @@
+As a DIY-er, I want to be able to collect data and measurements for smaller sized projects. 
+
+As a DIY-er, I want to be able to make basic calculations for smaller sized projects. 
+
+As a DIY-er, I want to be able to weigh cost vs benefits for smaller sized projects. 
+
+As a DIY-er, I want a savings estimator app to help me figure out potential energy use reduction. 
+
+As a DIY-er, I want a material estimator feature to help figure out cost of materials and amount of time the savings might pay back cost. 
+
+As a DIY-er, I want a way to monitor energy consumption and estimate bills. 
+
+As a DIY-er, I want a “meter lens” where my phone camera can help me read my electric meter. 
+
+As someone who prefers desktops, I want this estimator app to have a platform where the data is kept private. 
+
+As the provider of this tool I would want to have a way to provide updates such as revisions to electric company rate scales, and references to reputable contractors and professionals in the area. 
