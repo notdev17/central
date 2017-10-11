@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 welcome to the ¬dev (notDev) project group repository! 
 testing commity
 # *Terminology and points to become familiar with github*
@@ -39,3 +40,6 @@ testing commity
 
 you guys feel free to add to the read me
 -Daylen Nguyen
+=======
+# central
+>>>>>>> b73b82fb59c9adaa748e1973170726d70868c122
