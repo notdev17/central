@@ -1,9 +1,11 @@
 # ¬dev (notDev)!
-  This is a repository meant to give face to our project group. The website that will host our future projects
+  This is a repository meant to give face to our project group. 
+
+  The website that will host our future projects
 
 
 ## Website/Repo Last Updated: 10/12/2017
-
+    Group Email: [notdev17@gmail.com](notdev17@gmail.com)
 
 # Team Members
   * Tim
@@ -19,9 +21,6 @@
 
 ## To reach this repo through browser:
   * [https://github.com/notdev17/notdev17.github.io ](https://github.com/notdev17/notdev17.github.io)
-
-
-## Group Email: [notdev17@gmail.com](notdev17@gmail.com)
 
   
 ### Discord for future discussion (Specifically for our group):
