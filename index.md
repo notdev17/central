@@ -7,20 +7,20 @@ welcome to the ¬dev (notDev) project group repository!
   * Devon
   * Brandon
 
-# Preferable Meeting Time
-  * Tuesdays and Thursdays - Preferably before class (Before 5:20PM)
-  * Possibly Meeting locations: DOU lab and Sitdown study areas on campus; the library is also lit.
-  
-# Discord for future discussion (Specifically for our group):
-  * https://discord.gg/ZjgTcxg
+# Weekly Minutes and Task Matrices
+  * [http://notdev.us/time/ ](http://notdev.us/time/)
+
 
 # To reach this repo through browser:
-  * https://github.com/notdev17/notdev17.github.io
+  * [https://github.com/notdev17/notdev17.github.io ](https://github.com/notdev17/notdev17.github.io)
 
 # Group Email: [notdev17@gmail.com](notdev17@gmail.com)
 
 # Website/Repo Last Updated: 10/12/2017
 
+  
+# Discord for future discussion (Specifically for our group):
+  * https://discord.gg/ZjgTcxg
 
 # Team website requirements
   * [x] the team name
