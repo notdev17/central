@@ -18,7 +18,7 @@ Welcome to the ¬dev (notDev) Meeting information Directory!
 ##### Facilitator: Devon
 ##### Minute Taker: Brandon
 
-## __**Discussion Summary part A:**__ 
+## **Discussion Summary part A:**
 
 We discussed that we would politely let each other know if someone exercises too much control
 or isn't participating enough. We also agreed that if there is inclement weather or someone isn't feeling good
@@ -33,7 +33,7 @@ We are going to continue the rest of the meeting Thursday the 12th after class.
 ##### Facilitator: Devon
 ##### Minute Taker: Brandon
 
-## __**Discussion Summary Part B:**__
+## **Discussion Summary Part B:**
 
 We set this meeting to finish the user stories assignment and also talk about what features we need to still complete for our
 website. We came up with a couple of user stories and attached some business rules to them. We went over what we would bring to next meeting for paper prototyping.
