@@ -18,13 +18,13 @@ Welcome to the ¬dev (notDev) Meeting information Directory!
 ##### Facilitator: Devon
 ##### Minute Taker: Brandon
 
-## **Discussion Summary part A:** 
+## __**Discussion Summary part A:**__ 
 
-&nbsp;&nbsp;&nbsp; We discussed that we would politely let each other know if someone exercises too much control
-&nbsp;&nbsp;&nbsp; or isn't participating enough. We also agreed that if there is inclement weather or someone isn't feeling good
-&nbsp;&nbsp;&nbsp; that we would use "Discord" for the people(s) not showing up to the meeting as it has chat and a webcam feature.
-&nbsp;&nbsp;&nbsp; We attempted to set up a domain but decided it would be easier to use github pages as a project website.
-&nbsp;&nbsp;&nbsp; We are going to continue the rest of the meeting Thursday the 12th after class.
+We discussed that we would politely let each other know if someone exercises too much control
+or isn't participating enough. We also agreed that if there is inclement weather or someone isn't feeling good
+that we would use "Discord" for the people(s) not showing up to the meeting as it has chat and a webcam feature.
+We attempted to set up a domain but decided it would be easier to use github pages as a project website.
+We are going to continue the rest of the meeting Thursday the 12th after class.
 
 - ## **Meeting 1 part B: 10/12/2017, 7:30 - 8:30pm**
 ##### Location: Cherry Parkes study room
@@ -33,9 +33,9 @@ Welcome to the ¬dev (notDev) Meeting information Directory!
 ##### Facilitator: Devon
 ##### Minute Taker: Brandon
 
-## **Discussion Summary Part B:**
+## __**Discussion Summary Part B:**__
 
-&nbsp;&nbsp;&nbsp; We set this meeting to finish the user stories assignment and also talk about what features we need to still complete for our
-&nbsp;&nbsp;&nbsp; website. We came up with a couple of user stories and attached some business rules to them. We went over what we would bring to next meeting for paper prototyping.
-&nbsp;&nbsp;&nbsp; We also started a task matrix for the next week in order to track duties and split them amongst ourselves as well. The rest of the meeting was discussing what
-&nbsp;&nbsp;&nbsp; our next meetings agenda would be and who would be the facilitator (Daylen) and minute-taker (Michelle).
+We set this meeting to finish the user stories assignment and also talk about what features we need to still complete for our
+website. We came up with a couple of user stories and attached some business rules to them. We went over what we would bring to next meeting for paper prototyping.
+We also started a task matrix for the next week in order to track duties and split them amongst ourselves as well. The rest of the meeting was discussing what
+our next meetings agenda would be and who would be the facilitator (Daylen) and minute-taker (Michelle).
