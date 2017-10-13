@@ -5,7 +5,7 @@
 
 
 ## Website/Repo Last Updated: 10/12/2017
-    Group Email: [notdev17@gmail.com](notdev17@gmail.com)
+  Group Email: [notdev17@gmail.com](notdev17@gmail.com)
 
 # Team Members
   * Tim
