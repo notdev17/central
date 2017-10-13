@@ -32,5 +32,6 @@ welcome to the ¬dev (notDev) project group repository!
   * [x] a link to a github code repository 
 
 
+[Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 you guys feel free to add to the read me
 -Daylen Nguyen
