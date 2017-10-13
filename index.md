@@ -1,5 +1,9 @@
-#welcome to the ¬dev (notDev) project group repository! 
-  Website/Repo Last Updated: 10/12/2017
+# ¬dev (notDev)!
+  This is a repository meant to give face to our project group. The website that will host our future projects
+
+
+## Website/Repo Last Updated: 10/12/2017
+
 
 # Team Members
   * Tim
