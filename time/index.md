@@ -12,11 +12,11 @@ Welcome to the ¬dev (notDev) Meeting information Directory!
 
 # **Documented Minutes** 
 ## **Meeting 1 part A: 10/10/2017, 7:30 - 8:30pm**
-### Location: Cherry Parkes study room
-### Attending: Brandon, Daylen, Devon, Michelle, Tim
-### Absent: no one
-### Facilitator: Devon
-### Minute Taker: Brandon
+##### Location: Cherry Parkes study room
+#####Attending: Brandon, Daylen, Devon, Michelle, Tim
+##### Absent: no one
+##### Facilitator: Devon
+##### Minute Taker: Brandon
 
 ## **Discussion Summary part A:** 
 We discussed that we would politely let each other know if someone exercises too much control
@@ -26,11 +26,11 @@ We attempted to set up a domain but decided it would be easier to use github pag
 We are going to continue the rest of the meeting Thursday the 12th after class.
 
 ## **Meeting 1 part B: 10/12/2017, 7:30 - 8:30pm**
-### Location: Cherry Parkes Study room
-### Attending: Brandon, Daylen, Devon, Michelle, Tim
-### Absent: no one
-### Facilitator: Devon
-### Minute Taker: Brandon
+##### Location: Cherry Parkes Study room
+##### Attending: Brandon, Daylen, Devon, Michelle, Tim
+##### Absent: no one
+##### Facilitator: Devon
+##### Minute Taker: Brandon
 
 ## **Discussion Summary Part B:**
 We set this meeting to finish the user stories assignment and also talk about what features we need to still complete for our
@@ -38,4 +38,3 @@ website. We came up with a couple of user stories and attached some business rul
 We also started a task matrix for the next week in order to track duties and split them amongst ourselves as well. The rest of the meeting was discussing what
 our next meetings agenda would be and who would be the facilitator (Daylen) and minute-taker (Michelle).
 
-</p>
