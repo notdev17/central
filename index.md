@@ -17,7 +17,7 @@ welcome to the ¬dev (notDev) project group repository!
 # To reach this repo through browser:
   * https://github.com/notdev17/notdev17.github.io
 
-# Group Email: notdev17@gmail.com
+# Group Email: [notdev17@gmail.com](notdev17@gmail.com)
 
 # Website/Repo Last Updated: 10/12/2017
 
