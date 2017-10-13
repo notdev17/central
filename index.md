@@ -13,22 +13,22 @@
   * Brandon
 
 
-# Weekly Minutes and Task Matrices
+## Weekly Minutes and Task Matrices
   * [http://notdev.us/time/ ](http://notdev.us/time/)
 
 
-# To reach this repo through browser:
+## To reach this repo through browser:
   * [https://github.com/notdev17/notdev17.github.io ](https://github.com/notdev17/notdev17.github.io)
 
 
-# Group Email: [notdev17@gmail.com](notdev17@gmail.com)
+## Group Email: [notdev17@gmail.com](notdev17@gmail.com)
 
   
-# Discord for future discussion (Specifically for our group):
+### Discord for future discussion (Specifically for our group):
   * https://discord.gg/ZjgTcxg
 
 
-# Team website requirements
+## Team website requirements
   * [x] the team name
   * [x] date of the last update
   * [x] names of team members
