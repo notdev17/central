@@ -1,7 +1,6 @@
 import java.awt.BorderLayout;
-import java.awt.Color;
 import java.awt.Dimension;
-
+import java.awt.GridBagLayout;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
@@ -16,9 +15,12 @@ public class EasterFrame extends JFrame {
 
 		//Set preferences for window
 		this.setLayout(new BorderLayout());
-		this.setVisible(true);
 		this.setPreferredSize(new Dimension(SIZE, SIZE));
 		this.setSize(this.getPreferredSize());
+		
+		//Centering the JFrame
+		this.pack();
+		this.setLocationRelativeTo(null);
 		
 		//create and add button and panel to the frame
 		addContents();
@@ -29,17 +31,19 @@ public class EasterFrame extends JFrame {
 		
 		//create the panel and button
 		JPanel panel = new JPanel();
+		panel.setLayout(new GridBagLayout());
 		JButton butt  = new JButton("We are...");
+		butt.setPreferredSize(new Dimension(this.getWidth()/3, this.getHeight()/4));
+		panel.add(butt);
 		
 		//create the action listener for the button
 		butt.addActionListener(event -> {
 			//show a message dialogue displaying members (ADD YOUR NAME HERE with (\n) for new lines)
-			JOptionPane.showMessageDialog(this, "Daylen", "Not Dev!",JOptionPane.INFORMATION_MESSAGE);
+			JOptionPane.showMessageDialog(this, "Daylen\nBrandon", "Not Dev!",JOptionPane.INFORMATION_MESSAGE);
 		});
 		
 		//add the panel and button to the frame
-		add(panel);
-		panel.add(butt);
+		this.add(panel);
 	}
 	
 	
