@@ -29,12 +29,13 @@ public class EasterFrame extends JFrame {
 	//creates and adds the panel and button to the frame
 	private void addContents() {
 		
-		//create the panel and button
+		//create the panel & set layout
 		JPanel panel = new JPanel();
 		panel.setLayout(new GridBagLayout());
+		
+		//create the button & set size
 		JButton butt  = new JButton("We are...");
 		butt.setPreferredSize(new Dimension(this.getWidth()/3, this.getHeight()/4));
-		panel.add(butt);
 		
 		//create the action listener for the button
 		butt.addActionListener(event -> {
@@ -43,6 +44,7 @@ public class EasterFrame extends JFrame {
 		});
 		
 		//add the panel and button to the frame
+		panel.add(butt);
 		this.add(panel);
 	}
 	
