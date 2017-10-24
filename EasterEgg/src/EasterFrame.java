@@ -1,4 +1,6 @@
 /**
+ * Main EasterEgg frame.
+ * 
  * @author notDevs
  * @version 1
  */
