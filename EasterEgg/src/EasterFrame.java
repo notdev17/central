@@ -14,16 +14,19 @@ public class EasterFrame extends JFrame {
 		super("Easter Egg");
 
 		//Set preferences for window
+		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		this.setLayout(new BorderLayout());
 		this.setPreferredSize(new Dimension(SIZE, SIZE));
 		this.setSize(this.getPreferredSize());
 
+		//create and add button and panel to the frame
+		addContents();
+
 		//Centering the JFrame
 		this.pack();
 		this.setLocationRelativeTo(null);
+		this.setVisible(true);
 
-		//create and add button and panel to the frame
-		addContents();
 	}
 
 	//creates and adds the panel and button to the frame
