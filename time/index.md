@@ -4,6 +4,8 @@ Welcome to the ¬dev (notDev) Meeting information Directory!
   * Meeting 0: Thursday, October 5th: (20min duration) 
   * Meeting 1 Part A: Tuesday, October 10th (1h duration)
   * Meeting 1 Part B: Thursday, October 12th (1h duration)
+  * Meeting 2 Part A: Tuesday, October 17th (1h duration)
+  * Meeting 2 Part B: Thursday, October 19th (1h duration)
 
 
 # **Preferable Meeting Time**
@@ -39,3 +41,31 @@ We set this meeting to finish the user stories assignment and also talk about wh
 website. We came up with a couple of user stories and attached some business rules to them. We went over what we would bring to next meeting for paper prototyping.
 We also started a task matrix for the next week in order to track duties and split them amongst ourselves as well. The rest of the meeting was discussing what
 our next meetings agenda would be and who would be the facilitator (Daylen) and minute-taker (Michelle).
+
+
+#	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+## **Meeting 2 part A: 10/17/2017, 7:30 - 9:30pm**
+##### Location: Cherry Parkes study room
+##### Attending: Brandon, Daylen, Michelle, Tim 
+##### Absent: Devon
+##### Facilitator: Daylen
+##### Minute Taker: Michelle
+
+## **Discussion Summary Part A:**
+
+During this meeting, we wrote up our 3 chosen user stories on index cards and discussed the easter egg task. 
+For the most part, this just required breaking down the task into writing the base code, writing JUnit tests, and writing out javaDoc.
+We also updated the task matrix and decided to meet again Thursday to work on the paper prototype of our project. 
+
+
+## **Meeting 2 part B: 10/19/2017, 4:30 - 5:20pm**
+##### Location: Cherry Parkes study room
+##### Attending: Brandon, Daylen, Devon, Michelle, Tim
+##### Absent: no one
+##### Facilitator: Daylen
+##### Minute Taker: Michelle
+
+## **Discussion Summary Part B:**
+
+We worked more on the paper prototype and reduced down to a simpler project where we focus only on replacing appliances. 
+
