@@ -1,3 +1,8 @@
+/**
+ * @author notDevs
+ * @version 1
+ */
+
 import java.awt.BorderLayout;
 import java.awt.Dimension;
 import java.awt.GridBagLayout;
@@ -10,6 +15,9 @@ public class EasterFrame extends JFrame {
 	//width and height of the frame
 	private static final int SIZE = 500;
 
+	/**
+	 * EasterEgg constructor. Sets JFrame settings.
+	 */
 	public EasterFrame () {
 		super("Easter Egg");
 
@@ -29,7 +37,9 @@ public class EasterFrame extends JFrame {
 
 	}
 
-	//creates and adds the panel and button to the frame
+	/**
+	 * Creates and adds the panel and button to the frame
+	 */
 	private void addContents() {
 
 		//create the panel & set layout
