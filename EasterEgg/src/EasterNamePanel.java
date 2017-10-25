@@ -1,6 +1,6 @@
 /**
  * Adds names of team members for the MessageDialog panel.
- * 
+ *
  * @author notDevs
  * @version 1
  */
@@ -13,8 +13,8 @@ public class EasterNamePanel extends JPanel {
 
   // Add your name to this array
   // Just made an array so that JUnit test can just check for array length == 5
-  // to see if everyone added their name. 
-  private static final String[] NAMES = {"Daylen", "Brandon", "Michelle", "Tim"};
+  // to see if everyone added their name.
+  private static final String[] NAMES = {"Daylen", "Brandon", "Michelle", "Tim", "Devon"};
 
   /**
    * Constructor.
