@@ -1,5 +1,7 @@
 Welcome to the ¬dev (notDev) Meeting information Directory! 
 
+# **[Task Matrices](https://docs.google.com/spreadsheets/d/1paBNAvlPqo-rrVl_JR8R4uvp5F34yir2WKySzl2PoTk/edit?usp=sharing)**
+
 # **Meetings**
   * Meeting 0: Thursday, October 5th: (20min duration) 
   * Meeting 1 Part A: Tuesday, October 10th (1h duration)
