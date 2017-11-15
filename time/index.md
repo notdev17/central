@@ -71,3 +71,29 @@ We also updated the task matrix and decided to meet again Thursday to work on th
 
 We worked more on the paper prototype and reduced down to a simpler project where we focus only on replacing appliances. 
 
+
+## **Meeting 'Discord': 11/5/2017, 11:10 - 12:10pm**
+
+##### Attending: Brandon, Daylen, Devon
+##### Absent: Tim, Michelle
+##### Facilitator: Daylen
+##### Minute Taker: Devon
+
+## **Discussion Summary:**
+	• We discussed the feedback that Professor Weiss gave Daylen on Thursday. Specifically:
+		○ Needing to expand app functionality
+		○ Better user stories
+			§ Example: As a DIYer I would like to compare an older model of appliance to a newer model to compare energy use
+	• We discussed the non-GUI classes necessary for our application (as currently designed), and decided on having an Appliance and Users class.
+		○ In the process of this we discussed what we mean by Cost/Year. We decided it made more sense to ignore the initial cost of the appliance to keep Cost/Year consistent on long-term considerations.
+			§ This brought up the issue of Energy/Year and Cost/Year being slightly redundant, as these values are directly related and are related linearly.
+		○ We realized that, as currently designed, the bulk of our application's classes will be GUI related.
+	• Further additions to the app functionality were discussed, including adding an energy savings calculator for window and door replacements.
+		○ Windows should be fairly easy to calculate, with only the pane types and surface area needed for calculation, and maybe some info on heating unit usage. (for now we could assume an average Washington winter, and expand from there if desired).
+	• Having a meeting to iterate on our development cycle and team structure is still a priority, but we decided to wait until the whole group was together.
+	• Looking forward
+		○ We would like to meet with Professor Weiss to discuss the scope of our project, and whether our non-GUI class structure is sufficiently large. Either on:
+			§ Monday (where Devon would talk to him)
+			§ Before class on Tuesday, where the group can talk to him during his pre-class office hours.
+			§ At worst, after class on Tuesday
+		○ Development process / group structure meeting.
