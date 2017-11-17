@@ -37,7 +37,7 @@
   * [x] a link to a github code repository
   
   ## Check-Ins and Deliverables
-  * [http://notdev.us/CheckInNDeliverables/ ](http://notdev.us/CheckInNDeliverables/)
+  * [http://notdev.us/CheckInNDeliverables/index.md ](http://notdev.us/CheckInNDeliverables/index.md)
   
 
 
