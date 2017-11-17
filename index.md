@@ -31,11 +31,13 @@
   * [x] the team name
   * [x] date of the last update
   * [x] names of team members
-  * [] an area with links to your weekly minutes and task matrices,
+  * [x] an area with links to your weekly minutes and task matrices,
   * [] an area with links to check-ins and deliverables
   * [x] a single link that I can use to send email to the entire team at once
-  * [x] a link to a github code repository 
-
+  * [x] a link to a github code repository
+  
+  ## Class Sequence Diagram
+ ![alt text]( https://raw.githubusercontent.com/notdev17/notDev.us/master/Appliance%20Comparison%20Application%20-%20Not%20Dev.png)
 
 
 
