@@ -36,10 +36,6 @@
   * [x] a single link that I can use to send email to the entire team at once
   * [x] a link to a github code repository
   
-  ## Class Sequence Diagram
- ![alt text]( https://raw.githubusercontent.com/notdev17/notDev.us/master/Appliance%20Comparison%20Application%20-%20Not%20Dev.png)
-
-
 
 
 [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
