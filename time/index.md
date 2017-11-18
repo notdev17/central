@@ -14,13 +14,15 @@ Welcome to the ¬dev (notDev) Meeting information Directory!
   * Tuesdays and Thursdays - After class
   * Possibly Meeting locations: DOU lab and Sitdown study areas on campus; the library is also lit.
 
+________________________________________________________________________________________________________________________
+
 # **Documented Minutes** 
 ## **Meeting 1 part A: 10/10/2017, 7:30 - 8:30pm**
-##### Location: Cherry Parkes study room
-##### Attending: Brandon, Daylen, Devon, Michelle, Tim
-##### Absent: no one
-##### Facilitator: Devon
-##### Minute Taker: Brandon
+##### 	Location: Cherry Parkes study room
+##### 	Attending: Brandon, Daylen, Devon, Michelle, Tim
+##### 	Absent: no one
+##### 	Facilitator: Devon
+##### 	Minute Taker: Brandon
 
 ## **Discussion Summary part A:**
 
@@ -31,11 +33,11 @@ Welcome to the ¬dev (notDev) Meeting information Directory!
 		We are going to continue the rest of the meeting Thursday the 12th after class.
 
 ## **Meeting 1 part B: 10/12/2017, 7:30 - 8:30pm**
-##### Location: Cherry Parkes study room
-##### Attending: Brandon, Daylen, Devon, Michelle, Tim
-##### Absent: no one
-##### Facilitator: Devon
-##### Minute Taker: Brandon
+##### 	Location: Cherry Parkes study room
+##### 	Attending: Brandon, Daylen, Devon, Michelle, Tim
+##### 	Absent: no one
+##### 	Facilitator: Devon
+##### 	Minute Taker: Brandon
 
 ## **Discussion Summary Part B:**
 
@@ -44,12 +46,14 @@ Welcome to the ¬dev (notDev) Meeting information Directory!
 		We also started a task matrix for the next week in order to track duties and split them amongst ourselves as well. The rest of the meeting was discussing what
 		our next meetings agenda would be and who would be the facilitator (Daylen) and minute-taker (Michelle).
 
+________________________________________________________________________________________________________________________
+
 ## **Meeting 2 part A: 10/17/2017, 7:30 - 9:30pm**
-##### Location: Cherry Parkes study room
-##### Attending: Brandon, Daylen, Michelle, Tim 
-##### Absent: Devon
-##### Facilitator: Daylen
-##### Minute Taker: Michelle
+##### 	Location: Cherry Parkes study room
+##### 	Attending: Brandon, Daylen, Michelle, Tim 
+##### 	Absent: Devon
+##### 	facilitator: Daylen
+##### 	Minute Taker: Michelle
 
 ## **Discussion Summary Part A:**
 
@@ -59,23 +63,23 @@ Welcome to the ¬dev (notDev) Meeting information Directory!
 
 
 ## **Meeting 2 part B: 10/19/2017, 4:30 - 5:20pm**
-##### Location: Cherry Parkes study room
-##### Attending: Brandon, Daylen, Devon, Michelle, Tim
-##### Absent: no one
-##### Facilitator: Daylen
-##### Minute Taker: Michelle
+##### 	Location: Cherry Parkes study room
+##### 	Attending: Brandon, Daylen, Devon, Michelle, Tim
+##### 	Absent: no one
+##### 	Facilitator: Daylen
+##### 	Minute Taker: Michelle
 
 ## **Discussion Summary Part B:**
 
 	• We worked more on the paper prototype and reduced down to a simpler project where we focus only on replacing appliances. 
 
+________________________________________________________________________________________________________________________
 
 ## **Meeting 3 'Discord': 11/5/2017, 11:10am - 12:10pm**
-
-##### Attending: Brandon, Daylen, Devon
-##### Absent: Tim, Michelle
-##### Facilitator: Daylen
-##### Minute Taker: Devon
+##### 	Attending: Brandon, Daylen, Devon
+##### 	Absent: Tim, Michelle
+##### 	Facilitator: Daylen
+##### 	Minute Taker: Devon
 
 ## **Discussion Summary:**
 	• We discussed the feedback that Professor Weiss gave Daylen on Thursday. Specifically:
@@ -96,12 +100,14 @@ Welcome to the ¬dev (notDev) Meeting information Directory!
 			§ At worst, after class on Tuesday
 		○ Development process / group structure meeting.
 
+________________________________________________________________________________________________________________________
+
 ## **Meeting 4: 11/16/2017, 4:30 - 5:20pm**
 
-##### Attending: Michelle, Brandon, Tim, Devon
-##### Absent: Daylen
-##### Facilitator: 
-##### Minute Taker: 
+##### 	Attending: Michelle, Brandon, Tim, Devon
+##### 	Absent: Daylen
+##### 	Facilitator: 
+##### 	Minute Taker: 
 
 ## **Discussion Summary:**
 	• 
