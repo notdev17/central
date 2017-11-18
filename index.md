@@ -36,7 +36,7 @@
   * [x] a single link that I can use to send email to the entire team at once
   * [x] a link to a github code repository
   
-  ## Check-Ins and Deliverables
+##  Check-Ins and Deliverables
   * [http://notdev.us/CheckInNDeliverables ](http://notdev.us/CheckInNDeliverables)
   
 

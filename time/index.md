@@ -14,7 +14,7 @@ Welcome to the ¬dev (notDev) Meeting information Directory!
   * Tuesdays and Thursdays - After class
   * Possibly Meeting locations: DOU lab and Sitdown study areas on campus; the library is also lit.
 
-________________________________________________________________________________________________________________________
+***
 
 # **Documented Minutes** 
 ## **Meeting 1 part A: 10/10/2017, 7:30 - 8:30pm**
@@ -46,7 +46,7 @@ ________________________________________________________________________________
 		We also started a task matrix for the next week in order to track duties and split them amongst ourselves as well. The rest of the meeting was discussing what
 		our next meetings agenda would be and who would be the facilitator (Daylen) and minute-taker (Michelle).
 
-________________________________________________________________________________________________________________________
+***
 
 ## **Meeting 2 part A: 10/17/2017, 7:30 - 9:30pm**
 ##### 	Location: Cherry Parkes study room
@@ -73,7 +73,7 @@ ________________________________________________________________________________
 
 	• We worked more on the paper prototype and reduced down to a simpler project where we focus only on replacing appliances. 
 
-________________________________________________________________________________________________________________________
+***
 
 ## **Meeting 3 'Discord': 11/5/2017, 11:10am - 12:10pm**
 ##### 	Attending: Brandon, Daylen, Devon
@@ -100,7 +100,7 @@ ________________________________________________________________________________
 			§ At worst, after class on Tuesday
 		○ Development process / group structure meeting.
 
-________________________________________________________________________________________________________________________
+***
 
 ## **Meeting 4: 11/16/2017, 4:30 - 5:20pm**
 
