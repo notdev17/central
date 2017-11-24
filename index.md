@@ -16,7 +16,7 @@
 
 
 ## [Weekly Minutes and Task Matrices] 
-  * Access our weekly minutes and task matrix[here](http://notdev.us/time/)
+  * Access our weekly minutes and task matrix [here!](http://notdev.us/time/)
 
 
 ## To reach this repo through browser:
@@ -37,7 +37,7 @@
   * [x] a link to a github code repository
   
 ##  Check-Ins and Deliverables
-  * [http://notdev.us/CheckInNDeliverables ](http://notdev.us/CheckInNDeliverables)
+  * [Check-In 3](http://notdev.us/CheckInNDeliverables)
   
 
 
