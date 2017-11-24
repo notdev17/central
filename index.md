@@ -15,8 +15,8 @@
   * Brandon
 
 
-## [Weekly Minutes and Task Matrices] (http://notdev.us/time/)
-  * [Weekly Minutes]
+## [Weekly Minutes and Task Matrices] 
+  * Access our weekly minutes and task matrix[here](http://notdev.us/time/)
 
 
 ## To reach this repo through browser:
