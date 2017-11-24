@@ -16,7 +16,7 @@
 
 
 ## Weekly Minutes and Task Matrices
-  * [http://notdev.us/time/ ](http://notdev.us/time/)
+  * [Weekly Minutes](http://notdev.us/time/)
 
 
 ## To reach this repo through browser:
