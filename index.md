@@ -15,12 +15,12 @@
   * Brandon
 
 
-## Weekly Minutes and Task Matrices
-  * [Weekly Minutes](http://notdev.us/time/)
+## [Weekly Minutes and Task Matrices] (http://notdev.us/time/)
+  * [Weekly Minutes]
 
 
 ## To reach this repo through browser:
-  * [https://github.com/notdev17/notdev17.github.io ](https://github.com/notdev17/notdev17.github.io)
+  * [Repo Link](https://github.com/notdev17/notdev17.github.io)
 
   
 ### Discord for future discussion (Specifically for our group):
