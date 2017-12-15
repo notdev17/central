@@ -3,7 +3,7 @@
 
   The website that will host our future projects
 
-#NOTAPP REPO (Project Repository)
+# NOTAPP REPO (Project Repository)
   * [Repo Link](https://github.com/notdev17/NotApp)
 
 ## Website/Repo Last Updated: 10/12/2017
